@@ -3,6 +3,9 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+<img src="https://github.com/wu4ngg/JobSift/blob/main/ios/jobApp/Images.xcassets/AppIcon.appiconset/iconJS_1024.png?raw=true" width=128 height=128/>
+
 # Đồ án CNPM NC viết bằng React Native (Javascript)
 
 https://fowardslash.vercel.app/#/projects/3F7iKkFqORJf4Shh8KMG
